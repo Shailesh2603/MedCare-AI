@@ -16,8 +16,6 @@ MedCare AI is an advanced healthcare solution leveraging Artificial Intelligence
 
 ### 📊 Patient Management & Monitoring
 
-### 🗂️ Smart EHR System
-
 ### 💬 AI Chat Assistant
 
 ### 🔒 Security & Compliance
